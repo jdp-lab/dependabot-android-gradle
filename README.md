@@ -15,8 +15,26 @@ Configure dependabot to be able to scan for dependencies in [https://maven.goolg
 
 ## Result
 
-Dependabot will check for updates if a [maven registry][dependabot-registries] set up
-in [dependabot.yml][dependabot-google-config].
+Dependabot will check for updates if a [maven registry][dependabot-registries] is set up
+in [dependabot.yml][dependabot-google-config]:
+
+```yaml
+version: 2
+registries:
+  maven-google:
+    type: maven-repository
+    url: https://maven.google.com
+    username: ""
+    password: ""
+updates:
+  - package-ecosystem: "gradle"
+    directory: "/"
+    registries:
+      - maven-google
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 10
+```
 
 [dependabot-default-config]: https://github.com/apter-tech/dependabot-android-gradle/commit/e200e9284fc7205e8e21c4bb36feefe414d5bd27
 
