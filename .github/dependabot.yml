@@ -10,11 +10,32 @@ registries:
     url: https://maven.google.com
     username: ""
     password: ""
+  maven-central:
+    type: maven-repository
+    url: https://repo.maven.apache.org/maven2
+    username: ""
+    password: ""
+  maven-portal:
+    type: maven-repository
+    url: https://plugins.gradle.org/m2
+    username: ""
+    password: ""
 updates:
   - package-ecosystem: "gradle"
     directory: "/"
     registries:
       - maven-google
+      - maven-central
+      - maven-portal
     schedule:
       interval: "daily"
-    open-pull-requests-limit: 10
+    open-pull-requests-limit: 999
+  - package-ecosystem: "gradle"
+    directory: "/app/"
+    registries:
+      - maven-google
+      - maven-central
+      - maven-portal
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 999
