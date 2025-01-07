@@ -282,7 +282,7 @@ dependencies {
     implementation("io.insert-koin:koin-test-jvm:3.1.4")
     implementation("io.ktor:ktor-client-core-jvm:2.3.4")
     implementation("io.ktor:ktor-client-core:2.3.4")
-    implementation("io.ktor:ktor-client-okhttp-jvm:2.3.4")
+    implementation("io.ktor:ktor-client-okhttp-jvm:3.0.3")
     implementation("io.ktor:ktor-client-okhttp:2.3.4")
     implementation("io.ktor:ktor-events-jvm:2.3.4")
     implementation("io.ktor:ktor-events:2.3.4")
