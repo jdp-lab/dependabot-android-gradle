@@ -174,7 +174,7 @@ dependencies {
     implementation("com.google.firebase:firebase-sessions:2.0.2")
     implementation("com.google.firebase:protolite-well-known-types:18.0.0")
     implementation("com.google.googlejavaformat:google-java-format:1.5")
-    implementation("com.google.guava:failureaccess:1.0.1")
+    implementation("com.google.guava:failureaccess:1.0.2")
     implementation("com.google.guava:guava:31.0.1-jre")
     implementation("com.google.guava:guava:31.1-android")
     implementation("com.google.guava:guava:31.1-jre")
