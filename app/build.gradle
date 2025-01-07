@@ -271,7 +271,7 @@ dependencies {
     implementation("io.grpc:grpc-context:1.57.0")
     implementation("io.grpc:grpc-core:1.57.0")
     implementation("io.grpc:grpc-netty:1.57.0")
-    implementation("io.grpc:grpc-protobuf-lite:1.57.0")
+    implementation("io.grpc:grpc-protobuf-lite:1.69.0")
     implementation("io.grpc:grpc-protobuf:1.57.0")
     implementation("io.grpc:grpc-stub:1.57.0")
     implementation("io.insert-koin:koin-android-compat:3.1.4")
