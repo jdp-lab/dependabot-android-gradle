@@ -299,7 +299,7 @@ dependencies {
     implementation("io.ktor:ktor-websockets-jvm:2.3.4")
     implementation("io.ktor:ktor-websockets:2.3.4")
     implementation("io.mockk:mockk-agent-api-jvm:1.13.7")
-    implementation("io.mockk:mockk-agent-jvm:1.13.7")
+    implementation("io.mockk:mockk-agent-jvm:1.13.14")
     implementation("io.mockk:mockk-common:1.12.5")
     implementation("io.mockk:mockk-core-jvm:1.13.7")
     implementation("io.mockk:mockk-dsl-jvm:1.13.7")
