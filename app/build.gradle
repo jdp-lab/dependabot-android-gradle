@@ -171,7 +171,7 @@ dependencies {
     implementation("com.google.firebase:firebase-messaging:24.0.0")
     implementation("com.google.firebase:firebase-perf-ktx:21.0.1")
     implementation("com.google.firebase:firebase-perf:21.0.1")
-    implementation("com.google.firebase:firebase-sessions:2.0.2")
+    implementation("com.google.firebase:firebase-sessions:2.0.7")
     implementation("com.google.firebase:protolite-well-known-types:18.0.0")
     implementation("com.google.googlejavaformat:google-java-format:1.5")
     implementation("com.google.guava:failureaccess:1.0.1")
