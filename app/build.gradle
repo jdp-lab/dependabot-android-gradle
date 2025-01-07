@@ -155,7 +155,7 @@ dependencies {
     implementation("com.google.firebase:firebase-config-interop:16.0.0")
     implementation("com.google.firebase:firebase-config-interop:16.0.1")
     implementation("com.google.firebase:firebase-config:22.0.0")
-    implementation("com.google.firebase:firebase-crashlytics-ndk:19.0.2")
+    implementation("com.google.firebase:firebase-crashlytics-ndk:19.3.0")
     implementation("com.google.firebase:firebase-crashlytics:19.0.2")
     implementation("com.google.firebase:firebase-database-collection:18.0.1")
     implementation("com.google.firebase:firebase-database:21.0.0")
