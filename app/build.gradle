@@ -305,7 +305,7 @@ dependencies {
     implementation("io.mockk:mockk-dsl-jvm:1.13.7")
     implementation("io.mockk:mockk-jvm:1.13.7")
     implementation("io.netty:netty-buffer:4.1.93.Final")
-    implementation("io.netty:netty-codec-http2:4.1.93.Final")
+    implementation("io.netty:netty-codec-http2:4.1.116.Final")
     implementation("io.netty:netty-codec-http:4.1.93.Final")
     implementation("io.netty:netty-codec-socks:4.1.93.Final")
     implementation("io.netty:netty-codec:4.1.93.Final")
