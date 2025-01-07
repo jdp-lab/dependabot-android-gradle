@@ -485,7 +485,7 @@ dependencies {
     implementation("org.robolectric:sandbox:4.9")
     implementation("org.robolectric:shadowapi:4.9")
     implementation("org.robolectric:shadows-framework:4.9")
-    implementation("org.robolectric:utils-reflector:4.9")
+    implementation("org.robolectric:utils-reflector:4.14.1")
     implementation("org.robolectric:utils:4.9")
     implementation("org.slf4j:slf4j-api:1.7.36")
     implementation("org.xerial:sqlite-jdbc:3.41.2.2")
