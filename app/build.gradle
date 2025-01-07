@@ -382,7 +382,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-daemon-embeddable:1.9.10")
     implementation("org.jetbrains.kotlin:kotlin-klib-commonizer-embeddable:1.9.10")
     implementation("org.jetbrains.kotlin:kotlin-parcelize-compiler:1.9.10")
-    implementation("org.jetbrains.kotlin:kotlin-parcelize-runtime:1.9.10")
+    implementation("org.jetbrains.kotlin:kotlin-parcelize-runtime:2.1.0")
     implementation("org.jetbrains.kotlin:kotlin-reflect:1.6.10")
     implementation("org.jetbrains.kotlin:kotlin-reflect:1.8.21")
     implementation("org.jetbrains.kotlin:kotlin-reflect:1.9.10")
