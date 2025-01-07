@@ -50,7 +50,7 @@ dependencies {
     implementation("com.github.deliveryhero:gcc-chat-component-android:4.3.0")
     implementation("com.github.fabioCollini.daggermock:daggermock-kotlin:0.8.4")
     implementation("com.github.fabioCollini.daggermock:daggermock:0.8.4")
-    implementation("com.github.flank:flank:21.11.0")
+    implementation("com.github.flank:flank:23.10.1")
     implementation("com.github.omadahealth:swipy:1.2.3")
     implementation("com.google.accompanist:accompanist-drawablepainter:0.23.1")
     implementation("com.google.accompanist:accompanist-navigation-animation:0.32.0")
