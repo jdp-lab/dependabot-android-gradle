@@ -197,7 +197,7 @@ dependencies {
     implementation("com.google.testing.platform:launcher:0.0.9-alpha02")
     implementation("com.google.zxing:core:3.3.3")
     implementation("com.googlecode.juniversalchardet:juniversalchardet:1.0.3")
-    implementation("com.ibm.icu:icu4j:70.1")
+    implementation("com.ibm.icu:icu4j:76.1")
     implementation("com.instabug.library:instabug-apm-okhttp-interceptor:13.2.0")
     implementation("com.instabug.library:instabug-apm:13.2.0")
     implementation("com.instabug.library:instabug-bug:13.2.0")
