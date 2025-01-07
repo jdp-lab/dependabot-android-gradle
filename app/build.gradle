@@ -40,7 +40,7 @@ dependencies {
     implementation("com.fasterxml.uuid:java-uuid-generator:4.3.0")
     implementation("com.github.bumptech.glide:annotations:4.13.2")
     implementation("com.github.bumptech.glide:compiler:4.13.2")
-    implementation("com.github.bumptech.glide:disklrucache:4.13.2")
+    implementation("com.github.bumptech.glide:disklrucache:4.16.0")
     implementation("com.github.bumptech.glide:gifdecoder:4.13.2")
     implementation("com.github.bumptech.glide:glide:4.13.2")
     implementation("com.github.deliveryhero.dh-adtech-sdk-android:adtechsdk:3.1.1")
