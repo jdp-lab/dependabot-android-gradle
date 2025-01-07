@@ -361,7 +361,7 @@ dependencies {
     implementation("org.chromium.net:cronet-api:98.4758.101")
     implementation("org.codehaus.mojo:animal-sniffer-annotations:1.23")
     implementation("org.conscrypt:conscrypt-openjdk-uber:2.5.2")
-    implementation("org.glassfish.jaxb:jaxb-runtime:2.3.2")
+    implementation("org.glassfish.jaxb:jaxb-runtime:4.0.5")
     implementation("org.glassfish.jaxb:txw2:2.3.2")
     implementation("org.greenrobot:eventbus:3.1.1")
     implementation("org.hamcrest:hamcrest-core:1.3")
