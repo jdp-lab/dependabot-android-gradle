@@ -480,7 +480,7 @@ dependencies {
     implementation("org.robolectric:nativeruntime:4.9")
     implementation("org.robolectric:pluginapi:4.9")
     implementation("org.robolectric:plugins-maven-dependency-resolver:4.9")
-    implementation("org.robolectric:resources:4.9")
+    implementation("org.robolectric:resources:4.14.1")
     implementation("org.robolectric:robolectric:4.9")
     implementation("org.robolectric:sandbox:4.9")
     implementation("org.robolectric:shadowapi:4.9")
