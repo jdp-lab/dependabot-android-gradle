@@ -294,7 +294,7 @@ dependencies {
     implementation("io.ktor:ktor-serialization:2.3.4")
     implementation("io.ktor:ktor-utils-jvm:2.3.4")
     implementation("io.ktor:ktor-utils:2.3.4")
-    implementation("io.ktor:ktor-websocket-serialization-jvm:2.3.4")
+    implementation("io.ktor:ktor-websocket-serialization-jvm:3.0.3")
     implementation("io.ktor:ktor-websocket-serialization:2.3.4")
     implementation("io.ktor:ktor-websockets-jvm:2.3.4")
     implementation("io.ktor:ktor-websockets:2.3.4")
