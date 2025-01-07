@@ -92,7 +92,7 @@ dependencies {
     implementation("com.google.android.gms:play-services-phenotype:17.0.0")
     implementation("com.google.android.gms:play-services-stats:17.0.2")
     implementation("com.google.android.gms:play-services-tagmanager-api:17.0.1")
-    implementation("com.google.android.gms:play-services-tagmanager-v4-impl:17.0.1")
+    implementation("com.google.android.gms:play-services-tagmanager-v4-impl:18.1.1")
     implementation("com.google.android.gms:play-services-tagmanager:17.0.1")
     implementation("com.google.android.gms:play-services-tasks:18.2.0")
     implementation("com.google.android.gms:play-services-vision-common:19.1.2")
