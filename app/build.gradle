@@ -245,7 +245,7 @@ dependencies {
     implementation("com.squareup:javapoet:1.10.0")
     implementation("com.squareup:javapoet:1.13.0")
     implementation("com.squareup:javawriter:2.1.1")
-    implementation("com.squareup:kotlinpoet-javapoet:1.14.2")
+    implementation("com.squareup:kotlinpoet-javapoet:2.0.0")
     implementation("com.squareup:kotlinpoet:1.11.0")
     implementation("com.squareup:kotlinpoet:1.14.2")
     implementation("com.sun.istack:istack-commons-runtime:3.0.8")
