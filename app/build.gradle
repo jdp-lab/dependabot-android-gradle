@@ -301,7 +301,7 @@ dependencies {
     implementation("io.mockk:mockk-agent-api-jvm:1.13.7")
     implementation("io.mockk:mockk-agent-jvm:1.13.7")
     implementation("io.mockk:mockk-common:1.12.5")
-    implementation("io.mockk:mockk-core-jvm:1.13.7")
+    implementation("io.mockk:mockk-core-jvm:1.13.14")
     implementation("io.mockk:mockk-dsl-jvm:1.13.7")
     implementation("io.mockk:mockk-jvm:1.13.7")
     implementation("io.netty:netty-buffer:4.1.93.Final")
