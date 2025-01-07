@@ -489,5 +489,5 @@ dependencies {
     implementation("org.robolectric:utils:4.9")
     implementation("org.slf4j:slf4j-api:1.7.36")
     implementation("org.xerial:sqlite-jdbc:3.41.2.2")
-    implementation("ru.tinkoff.scrollingpagerindicator:scrollingpagerindicator:1.0.6")
+    implementation("ru.tinkoff.scrollingpagerindicator:scrollingpagerindicator:1.2.5")
 }
