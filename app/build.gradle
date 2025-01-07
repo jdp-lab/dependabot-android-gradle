@@ -401,7 +401,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.0")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.10")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.20")
-    implementation("org.jetbrains.kotlin:kotlin-stdlib-jre7:1.2.10")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib-jre7:1.2.71")
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.7.0")
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.7.10")
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.8.10")
