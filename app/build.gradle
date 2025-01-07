@@ -195,7 +195,7 @@ dependencies {
     implementation("com.google.testing.platform:core-proto:0.0.9-alpha02")
     implementation("com.google.testing.platform:core:0.0.9-alpha02")
     implementation("com.google.testing.platform:launcher:0.0.9-alpha02")
-    implementation("com.google.zxing:core:3.3.3")
+    implementation("com.google.zxing:core:3.5.3")
     implementation("com.googlecode.juniversalchardet:juniversalchardet:1.0.3")
     implementation("com.ibm.icu:icu4j:70.1")
     implementation("com.instabug.library:instabug-apm-okhttp-interceptor:13.2.0")
