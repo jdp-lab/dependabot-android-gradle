@@ -219,7 +219,7 @@ dependencies {
     implementation("com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0")
     implementation("com.perimeterx.sdk:msdk:3.3.0")
     implementation("com.puppycrawl.tools:checkstyle:9.3")
-    implementation("com.riskified:android-sdk:1.9.3")
+    implementation("com.riskified:android-sdk:1.10.0")
     implementation("com.squareup.moshi:moshi-adapters:1.14.0")
     implementation("com.squareup.moshi:moshi-kotlin:1.14.0")
     implementation("com.squareup.moshi:moshi:1.14.0")
