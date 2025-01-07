@@ -284,7 +284,7 @@ dependencies {
     implementation("io.ktor:ktor-client-core:2.3.4")
     implementation("io.ktor:ktor-client-okhttp-jvm:2.3.4")
     implementation("io.ktor:ktor-client-okhttp:2.3.4")
-    implementation("io.ktor:ktor-events-jvm:2.3.4")
+    implementation("io.ktor:ktor-events-jvm:3.0.3")
     implementation("io.ktor:ktor-events:2.3.4")
     implementation("io.ktor:ktor-http-jvm:2.3.4")
     implementation("io.ktor:ktor-http:2.3.4")
