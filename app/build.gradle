@@ -477,7 +477,7 @@ dependencies {
     implementation("org.reflections:reflections:0.10.2")
     implementation("org.robolectric:annotations:4.9")
     implementation("org.robolectric:junit:4.9")
-    implementation("org.robolectric:nativeruntime:4.9")
+    implementation("org.robolectric:nativeruntime:4.14.1")
     implementation("org.robolectric:pluginapi:4.9")
     implementation("org.robolectric:plugins-maven-dependency-resolver:4.9")
     implementation("org.robolectric:resources:4.9")
