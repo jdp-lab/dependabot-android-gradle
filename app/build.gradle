@@ -263,7 +263,7 @@ dependencies {
     implementation("io.coil-kt:coil-compose-base:2.1.0")
     implementation("io.coil-kt:coil-compose:2.1.0")
     implementation("io.coil-kt:coil-gif:2.1.0")
-    implementation("io.coil-kt:coil-svg:2.1.0")
+    implementation("io.coil-kt:coil-svg:2.7.0")
     implementation("io.coil-kt:coil:2.1.0")
     implementation("io.github.aakira:napier-android-debug:1.4.1")
     implementation("io.github.aakira:napier-jvm:1.4.1")
