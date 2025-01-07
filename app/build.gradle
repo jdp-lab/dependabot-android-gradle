@@ -168,7 +168,7 @@ dependencies {
     implementation("com.google.firebase:firebase-installations-interop:17.1.1")
     implementation("com.google.firebase:firebase-installations:18.0.0")
     implementation("com.google.firebase:firebase-measurement-connector:20.0.1")
-    implementation("com.google.firebase:firebase-messaging:24.0.0")
+    implementation("com.google.firebase:firebase-messaging:24.1.0")
     implementation("com.google.firebase:firebase-perf-ktx:21.0.1")
     implementation("com.google.firebase:firebase-perf:21.0.1")
     implementation("com.google.firebase:firebase-sessions:2.0.2")
