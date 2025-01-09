@@ -187,7 +187,7 @@ dependencies {
     implementation("com.google.mlkit:vision-common:16.1.0")
     implementation("com.google.net.cronet:cronet-okhttp:0.1.0")
     implementation("com.google.protobuf:protobuf-java:3.22.3")
-    implementation("com.google.protobuf:protobuf-javalite:3.21.11")
+    implementation("com.google.protobuf:protobuf-javalite:4.29.3")
     implementation("com.google.protobuf:protobuf-lite:3.0.1")
     implementation("com.google.testing.platform:android-device-provider-local:0.0.9-alpha02")
     implementation("com.google.testing.platform:android-driver-instrumentation:0.0.9-alpha02")
