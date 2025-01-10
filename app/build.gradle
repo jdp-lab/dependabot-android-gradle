@@ -126,7 +126,7 @@ dependencies {
     implementation("com.google.dagger:dagger-android-processor:2.36")
     implementation("com.google.dagger:dagger-android-support:2.36")
     implementation("com.google.dagger:dagger-android:2.36")
-    implementation("com.google.dagger:dagger-compiler:2.50")
+    implementation("com.google.dagger:dagger-compiler:2.55")
     implementation("com.google.dagger:dagger-lint-aar:2.36")
     implementation("com.google.dagger:dagger-lint-aar:2.50")
     implementation("com.google.dagger:dagger-spi:2.50")
