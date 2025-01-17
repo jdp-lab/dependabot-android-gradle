@@ -268,7 +268,7 @@ dependencies {
     implementation("io.github.aakira:napier-android-debug:1.4.1")
     implementation("io.github.aakira:napier-jvm:1.4.1")
     implementation("io.grpc:grpc-api:1.57.0")
-    implementation("io.grpc:grpc-context:1.57.0")
+    implementation("io.grpc:grpc-context:1.69.1")
     implementation("io.grpc:grpc-core:1.57.0")
     implementation("io.grpc:grpc-netty:1.57.0")
     implementation("io.grpc:grpc-protobuf-lite:1.57.0")
