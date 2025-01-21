@@ -325,7 +325,7 @@ dependencies {
     implementation("io.sentry:sentry-android-fragment:6.34.0")
     implementation("io.sentry:sentry-android-navigation:6.32.0")
     implementation("io.sentry:sentry-android-navigation:6.34.0")
-    implementation("io.sentry:sentry-android-ndk:6.34.0")
+    implementation("io.sentry:sentry-android-ndk:8.0.0")
     implementation("io.sentry:sentry-android-okhttp:6.34.0")
     implementation("io.sentry:sentry-android-sqlite:6.34.0")
     implementation("io.sentry:sentry-android-timber:6.34.0")
