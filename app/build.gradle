@@ -201,7 +201,7 @@ dependencies {
     implementation("com.instabug.library:instabug-apm-okhttp-interceptor:13.2.0")
     implementation("com.instabug.library:instabug-apm:13.2.0")
     implementation("com.instabug.library:instabug-bug:13.2.0")
-    implementation("com.instabug.library:instabug-core:13.2.0")
+    implementation("com.instabug.library:instabug-core:14.2.0")
     implementation("com.instabug.library:instabug-crash:13.2.0")
     implementation("com.instabug.library:instabug-features-request:13.2.0")
     implementation("com.instabug.library:instabug:13.2.0")
