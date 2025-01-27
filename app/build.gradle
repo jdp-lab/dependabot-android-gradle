@@ -377,7 +377,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.9.10")
     implementation("org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.9.10")
     implementation("org.jetbrains.kotlin:kotlin-build-tools-api:1.9.10")
-    implementation("org.jetbrains.kotlin:kotlin-build-tools-impl:1.9.10")
+    implementation("org.jetbrains.kotlin:kotlin-build-tools-impl:2.1.10")
     implementation("org.jetbrains.kotlin:kotlin-compiler-embeddable:1.9.10")
     implementation("org.jetbrains.kotlin:kotlin-daemon-embeddable:1.9.10")
     implementation("org.jetbrains.kotlin:kotlin-klib-commonizer-embeddable:1.9.10")
