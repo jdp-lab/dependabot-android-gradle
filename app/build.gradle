@@ -375,7 +375,7 @@ dependencies {
     implementation("org.javassist:javassist:3.28.0-GA")
     implementation("org.jetbrains.intellij.deps:trove4j:1.0.20200330")
     implementation("org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.9.10")
-    implementation("org.jetbrains.kotlin:kotlin-annotation-processing-gradle:1.9.10")
+    implementation("org.jetbrains.kotlin:kotlin-annotation-processing-gradle:2.1.10")
     implementation("org.jetbrains.kotlin:kotlin-build-tools-api:1.9.10")
     implementation("org.jetbrains.kotlin:kotlin-build-tools-impl:1.9.10")
     implementation("org.jetbrains.kotlin:kotlin-compiler-embeddable:1.9.10")
