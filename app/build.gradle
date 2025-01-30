@@ -35,7 +35,7 @@ android {
 }
 
 dependencies {
-    implementation("com.facebook.android:facebook-login:11.3.0")
+    implementation("com.facebook.android:facebook-login:18.0.1")
     implementation("com.facebook.shimmer:shimmer:0.4.0")
     implementation("com.fasterxml.uuid:java-uuid-generator:4.3.0")
     implementation("com.github.bumptech.glide:annotations:4.13.2")
