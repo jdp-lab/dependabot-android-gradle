@@ -249,7 +249,7 @@ dependencies {
     implementation("com.squareup:kotlinpoet:1.11.0")
     implementation("com.squareup:kotlinpoet:1.14.2")
     implementation("com.sun.istack:istack-commons-runtime:3.0.8")
-    implementation("com.sun.xml.fastinfoset:FastInfoset:1.2.16")
+    implementation("com.sun.xml.fastinfoset:FastInfoset:2.1.1")
     implementation("com.theartofdev.edmodo:android-image-cropper:2.8.0")
     implementation("com.willowtreeapps.assertk:assertk-jvm:0.19")
     implementation("com.willowtreeapps.opentest4k:opentest4k-jvm:1.1.3")
