@@ -159,7 +159,7 @@ dependencies {
     implementation("com.google.firebase:firebase-crashlytics:19.0.2")
     implementation("com.google.firebase:firebase-database-collection:18.0.1")
     implementation("com.google.firebase:firebase-database:21.0.0")
-    implementation("com.google.firebase:firebase-datatransport:18.2.0")
+    implementation("com.google.firebase:firebase-datatransport:19.0.0")
     implementation("com.google.firebase:firebase-dynamic-links:22.1.0")
     implementation("com.google.firebase:firebase-encoders-json:18.0.1")
     implementation("com.google.firebase:firebase-encoders-proto:16.0.0")
