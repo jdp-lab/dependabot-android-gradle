@@ -259,7 +259,7 @@ dependencies {
     implementation("commons-io:commons-io:2.13.0")
     implementation("dev.chrisbanes.snapper:snapper:0.2.2")
     implementation("info.picocli:picocli:4.6.2")
-    implementation("io.coil-kt:coil-base:2.1.0")
+    implementation("io.coil-kt:coil-base:2.7.0")
     implementation("io.coil-kt:coil-compose-base:2.1.0")
     implementation("io.coil-kt:coil-compose:2.1.0")
     implementation("io.coil-kt:coil-gif:2.1.0")
