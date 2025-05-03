@@ -460,7 +460,7 @@ dependencies {
     implementation("org.objenesis:objenesis:3.3")
     implementation("org.opentest4j:opentest4j:1.1.1")
     implementation("org.opentest4j:opentest4j:1.2.0")
-    implementation("org.ow2.asm:asm-analysis:9.3")
+    implementation("org.ow2.asm:asm-analysis:9.7.1")
     implementation("org.ow2.asm:asm-commons:9.3")
     implementation("org.ow2.asm:asm-commons:9.6")
     implementation("org.ow2.asm:asm-tree:9.3")
