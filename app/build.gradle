@@ -266,7 +266,7 @@ dependencies {
     implementation("io.coil-kt:coil-svg:2.1.0")
     implementation("io.coil-kt:coil:2.1.0")
     implementation("io.github.aakira:napier-android-debug:1.4.1")
-    implementation("io.github.aakira:napier-jvm:1.4.1")
+    implementation("io.github.aakira:napier-jvm:2.7.1")
     implementation("io.grpc:grpc-api:1.57.0")
     implementation("io.grpc:grpc-context:1.57.0")
     implementation("io.grpc:grpc-core:1.57.0")
